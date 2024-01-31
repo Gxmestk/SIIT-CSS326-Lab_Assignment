@@ -1,0 +1,14 @@
+D:\DB_326\Assignment1_6422770345\Problem1\bin\Debug\net7.0\Problem1.exe
+D:\DB_326\Assignment1_6422770345\Problem1\bin\Debug\net7.0\Problem1.deps.json
+D:\DB_326\Assignment1_6422770345\Problem1\bin\Debug\net7.0\Problem1.runtimeconfig.json
+D:\DB_326\Assignment1_6422770345\Problem1\bin\Debug\net7.0\Problem1.dll
+D:\DB_326\Assignment1_6422770345\Problem1\bin\Debug\net7.0\Problem1.pdb
+D:\DB_326\Assignment1_6422770345\Problem1\obj\Debug\net7.0\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DB_326\Assignment1_6422770345\Problem1\obj\Debug\net7.0\Problem1.AssemblyInfoInputs.cache
+D:\DB_326\Assignment1_6422770345\Problem1\obj\Debug\net7.0\Problem1.AssemblyInfo.cs
+D:\DB_326\Assignment1_6422770345\Problem1\obj\Debug\net7.0\Problem1.csproj.CoreCompileInputs.cache
+D:\DB_326\Assignment1_6422770345\Problem1\obj\Debug\net7.0\Problem1.dll
+D:\DB_326\Assignment1_6422770345\Problem1\obj\Debug\net7.0\refint\Problem1.dll
+D:\DB_326\Assignment1_6422770345\Problem1\obj\Debug\net7.0\Problem1.pdb
+D:\DB_326\Assignment1_6422770345\Problem1\obj\Debug\net7.0\Problem1.genruntimeconfig.cache
+D:\DB_326\Assignment1_6422770345\Problem1\obj\Debug\net7.0\ref\Problem1.dll

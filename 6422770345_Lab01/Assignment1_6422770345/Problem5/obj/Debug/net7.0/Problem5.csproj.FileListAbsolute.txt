@@ -1,0 +1,14 @@
+D:\DB_326\Assignment1_6422770345\Problem5\obj\Debug\net7.0\Problem5.GeneratedMSBuildEditorConfig.editorconfig
+D:\DB_326\Assignment1_6422770345\Problem5\obj\Debug\net7.0\Problem5.AssemblyInfoInputs.cache
+D:\DB_326\Assignment1_6422770345\Problem5\obj\Debug\net7.0\Problem5.AssemblyInfo.cs
+D:\DB_326\Assignment1_6422770345\Problem5\obj\Debug\net7.0\Problem5.csproj.CoreCompileInputs.cache
+D:\DB_326\Assignment1_6422770345\Problem5\bin\Debug\net7.0\Problem5.exe
+D:\DB_326\Assignment1_6422770345\Problem5\bin\Debug\net7.0\Problem5.deps.json
+D:\DB_326\Assignment1_6422770345\Problem5\bin\Debug\net7.0\Problem5.runtimeconfig.json
+D:\DB_326\Assignment1_6422770345\Problem5\bin\Debug\net7.0\Problem5.dll
+D:\DB_326\Assignment1_6422770345\Problem5\bin\Debug\net7.0\Problem5.pdb
+D:\DB_326\Assignment1_6422770345\Problem5\obj\Debug\net7.0\Problem5.dll
+D:\DB_326\Assignment1_6422770345\Problem5\obj\Debug\net7.0\refint\Problem5.dll
+D:\DB_326\Assignment1_6422770345\Problem5\obj\Debug\net7.0\Problem5.pdb
+D:\DB_326\Assignment1_6422770345\Problem5\obj\Debug\net7.0\Problem5.genruntimeconfig.cache
+D:\DB_326\Assignment1_6422770345\Problem5\obj\Debug\net7.0\ref\Problem5.dll

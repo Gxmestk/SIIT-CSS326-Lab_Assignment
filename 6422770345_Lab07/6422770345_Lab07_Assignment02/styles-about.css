@@ -1,0 +1,118 @@
+/* Reset some default styles */
+body,
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+section.content {
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+}
+
+/* Adding the div.left-panel styles */
+div.left-panel {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0; 
+}
+
+/* Adding the div.bio styles */
+div.bio {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 5px; 
+    background-color: #ffffff; 
+}
+
+img {
+    width: 100%; 
+    max-width: 200px;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 15px; 
+}
+
+div.left-panel p {
+    margin: 15px;
+}
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+    section.content {
+        flex-direction: column;
+    }
+    img {
+        display: block;
+        margin: auto; /* This will horizontally center the image */
+        width: 100%; 
+        max-width: 100px;
+        height: auto;
+        border: 2% solid #333;
+        border-radius: 15%;
+    }
+    header {
+        background-color: #333;
+        color: white;
+        padding: 5vw; /* Using viewport width for proportional scaling */
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    nav ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-around; /* Even distribution of menu items */
+        padding: 0; /* Remove any default padding */
+    }
+    
+    nav li {
+        margin-right: 5vw; /* Using viewport width for proportional scaling */
+        font-size: 3vw; /* Adjust based on your design's requirement */
+    }
+    
+    nav a {
+        text-decoration: none;
+        color: white;
+        padding: 1vw 2vw; /* Making the links more touch-friendly */
+    }
+}
+

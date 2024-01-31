@@ -1,0 +1,35 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.game-container {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, 50px); /* Each tile is 50px wide */
+    grid-template-rows: repeat(5, 50px); /* Each tile is 50px tall */
+    margin-bottom: 20px;
+}
+
+.grid-item {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+.player {
+    background-color: #007bff;
+    border-radius: 50%;
+}

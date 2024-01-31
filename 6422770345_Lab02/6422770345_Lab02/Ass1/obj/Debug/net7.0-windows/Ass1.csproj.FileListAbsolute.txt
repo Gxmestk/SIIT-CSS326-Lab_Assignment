@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\bin\Debug\net7.0-windows\Ass1.exe
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\bin\Debug\net7.0-windows\Ass1.deps.json
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\bin\Debug\net7.0-windows\Ass1.runtimeconfig.json
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\bin\Debug\net7.0-windows\Ass1.dll
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\bin\Debug\net7.0-windows\Ass1.pdb
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.AssemblyInfo.cs
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.dll
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\refint\Ass1.dll
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.pdb
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.genruntimeconfig.cache
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\ref\Ass1.dll
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.Login.resources
+\\Mac\Home\Desktop\6422770345_Lab02\Ass1\obj\Debug\net7.0-windows\Ass1.Form2.resources
